@@ -1,2 +1,3 @@
-risa
-bandung
+name - Risa Silvia Faustina
+address - Bandung
+phone - 087731573510
